@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first project I am doing on the Odin Project which requires me to develop a recipes website which compiles a number of recipes that I have chosen to include on my first project.
