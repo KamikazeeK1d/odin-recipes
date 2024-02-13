@@ -1,0 +1,48 @@
+body {
+    background-color: lightcyan;
+}
+
+.links {
+    text-align: center;
+    list-style-type: none;
+}
+
+.link1, .link2, .link3 {
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.head1 {
+    text-align: center;
+}
+
+.headings {
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+.a-body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    color: lightcoral;
+}
+
+.b-body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    color: lightcoral;
+}
+
+.c-body {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: lightcoral;
+}
+
+.ingredients {
+    list-style-type: none;
+}
+
+.steps {
+    list-style-position: inside;
+}
